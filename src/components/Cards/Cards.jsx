@@ -13,7 +13,7 @@ const Cards = () => {
           <figure><img className='hover:scale-90 transition-all' src="https://woker.vtexassets.com/arquivos/ids/263815-800-800?v=637808699594500000&width=800&height=800&aspect=true" alt="Shoes" /></figure>
           <div className="card-body text-center">
             <h2 className="card-title">Remera Vans OTW de hombre</h2>
-            <p>If a dog chews shoes whose shoes does he choose?</p>
+            <p>Remera Vans escote redondo con ribb</p>
             <div className="card-actions justify-center">
               <button className="btn dark:bg-white dark:text-black">Comprar</button>
             </div>
@@ -24,7 +24,7 @@ const Cards = () => {
           <figure><img className='hover:scale-90 transition-all' src="https://woker.vtexassets.com/arquivos/ids/262287-800-800?v=637798340801270000&width=800&height=800&aspect=true" alt="Shoes" /></figure>
           <div className="card-body text-center">
             <h2 className="card-title">Remera Converse Star Chevron</h2>
-            <p>If a dog chews shoes whose shoes does he choose?</p>
+            <p>Remera Converse cuello redondo 100% algodon</p>
             <div className="card-actions justify-center">
               <button className="btn dark:bg-white dark:text-black">Comprar</button>
             </div>
@@ -35,7 +35,7 @@ const Cards = () => {
           <figure><img className='hover:scale-90 transition-all' src="https://woker.vtexassets.com/arquivos/ids/288641-800-800?v=637933972001130000&width=800&height=800&aspect=true" alt="Shoes" /></figure>
           <div className="card-body text-center">
             <h2 className="card-title">Remera Vans Logo Check de hombre</h2>
-            <p>If a dog chews shoes whose shoes does he choose?</p>
+            <p>Remera logo Check guresa de 90% algodón y 10% poliéster</p>
             <div className="card-actions justify-center">
               <button className="btn dark:bg-white dark:text-black">Comprar</button>
             </div>
@@ -46,7 +46,7 @@ const Cards = () => {
           <figure><img className='hover:scale-90 transition-all' src="https://woker.vtexassets.com/arquivos/ids/272974-800-800?v=637849541232230000&width=800&height=800&aspect=true" alt="Adidas" /></figure>
           <div className="card-body text-center">
             <h2 className="card-title">Buzo adidas Disney Rex unisex</h2>
-            <p>If a dog chews shoes whose shoes does he choose?</p>
+            <p>Buzo Adidas corte clásico en colaboración con Disney</p>
             <div className="card-actions justify-center">
               <button className="btn dark:bg-white dark:text-black">Comprar</button>
             </div>
@@ -57,7 +57,7 @@ const Cards = () => {
           <figure><img className='hover:scale-90 transition-all' src="https://woker.vtexassets.com/arquivos/ids/220326-800-800?v=637637748068670000&width=800&height=800&aspect=true" alt="Reebok" /></figure>
           <div className="card-body text-center">
             <h2 className="card-title">Buzo Reebok Kung Fu Panda</h2>
-            <p>If a dog chews shoes whose shoes does he choose?</p>
+            <p>Buzo Reebok corte regular en colaboración con Kung Fu Panda</p>
             <div className="card-actions justify-center">
               <button className="btn dark:bg-white dark:text-black">Comprar</button>
             </div>
@@ -68,7 +68,7 @@ const Cards = () => {
           <figure><img className='hover:scale-90 transition-all' src="https://woker.vtexassets.com/arquivos/ids/178909-800-800?v=637419261460600000&width=800&height=800&aspect=true" alt="Fila" /></figure>
           <div className="card-body text-center">
             <h2 className="card-title">Buzo Fila BTS estampa Box unisex</h2>
-            <p>If a dog chews shoes whose shoes does he choose?</p>
+            <p>Buzo realizado en colaboración con la banda coreana BTS</p>
             <div className="card-actions justify-center">
               <button className="btn dark:bg-white dark:text-black">Comprar</button>
             </div>
