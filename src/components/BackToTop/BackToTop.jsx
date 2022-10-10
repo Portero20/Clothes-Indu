@@ -51,7 +51,7 @@ const BackToTop = () => {
                     borderRadius: "30px",
 
 
-                }}onClick={scrollUp} className="dark:bg-slate-500 bg-zinc-900"><i class="fa-solid fa-arrow-up text-lg text-white"></i></button>
+                }}onClick={scrollUp} className="dark:bg-slate-500 bg-zinc-900"><i className="fa-solid fa-arrow-up text-lg text-white"></i></button>
 
 
             )}

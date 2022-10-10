@@ -8,7 +8,7 @@ const Footer = () => {
             <footer className="footer footer-center p-10 dark:bg-white bg-zinc-800 text-base-content rounded">
                 <div className="grid grid-flow-col gap-4 dark:text-black text-white">
                     <div className='flex'>
-                        <i class="fa-solid fa-shirt mx-2 text-xl self-center"></i>
+                        <i className="fa-solid fa-shirt mx-2 text-xl self-center"></i>
                         <h4 className='text-xl'>Clothes Indu</h4>
                     </div>
                 </div>
