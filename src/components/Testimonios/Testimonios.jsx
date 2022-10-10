@@ -17,7 +17,7 @@ const Testimonios = () => {
 
                     <div className='flex self-center flex-col'>
                         <p className='dark:text-white text-primary font-extrabold text-md'>James Blunt</p>
-                        <p className='text-white text-md'>Excelente servicio de atención al cliente</p>
+                        <p className='text-white text-md'>Excelente servicio de atención al cliente.</p>
                     </div>
 
                 </div>
@@ -34,7 +34,7 @@ const Testimonios = () => {
 
                     <div className='flex self-center flex-col'>
                         <p className='dark:text-white text-primary font-extrabold text-md'>Jessica Jimenez</p>
-                        <p className='text-white text-md'>Excelente servicio de atención al cliente</p>
+                        <p className='text-white text-md'>Me encanto la calidad de la ropa.</p>
                     </div>
 
                 </div>
@@ -51,7 +51,7 @@ const Testimonios = () => {
 
                     <div className='flex self-center flex-col'>
                         <p className='dark:text-white text-primary font-extrabold text-md'>Paul Chavez</p>
-                        <p className='text-white text-md'>Excelente servicio de atención al cliente</p>
+                        <p className='text-white text-md'>Mi pedido llego excelente</p>
                     </div>
 
                 </div>
@@ -66,7 +66,7 @@ const Testimonios = () => {
 
                     <div className='flex self-center flex-col'>
                         <p className='dark:text-white text-primary font-extrabold text-sm'>Nicole Ramirez</p>
-                        <p className='text-white text-md'>Excelente servicio de atención al cliente</p>
+                        <p className='text-white text-md'>Super recomendado Clothes Indu</p>
                     </div>
 
                 </div>
