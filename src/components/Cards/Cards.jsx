@@ -15,7 +15,7 @@ const Cards = () => {
             <h2 className="card-title">Remera Vans OTW de hombre</h2>
             <p>If a dog chews shoes whose shoes does he choose?</p>
             <div className="card-actions justify-center">
-              <button className="btn dark:bg-white dark:text-black">Buy Now</button>
+              <button className="btn dark:bg-white dark:text-black">Comprar</button>
             </div>
           </div>
         </div>
@@ -26,7 +26,7 @@ const Cards = () => {
             <h2 className="card-title">Remera Converse Star Chevron</h2>
             <p>If a dog chews shoes whose shoes does he choose?</p>
             <div className="card-actions justify-center">
-              <button className="btn dark:bg-white dark:text-black">Buy Now</button>
+              <button className="btn dark:bg-white dark:text-black">Comprar</button>
             </div>
           </div>
         </div>
@@ -37,7 +37,7 @@ const Cards = () => {
             <h2 className="card-title">Remera Vans Logo Check de hombre</h2>
             <p>If a dog chews shoes whose shoes does he choose?</p>
             <div className="card-actions justify-center">
-              <button className="btn dark:bg-white dark:text-black">Buy Now</button>
+              <button className="btn dark:bg-white dark:text-black">Comprar</button>
             </div>
           </div>
         </div>
@@ -48,7 +48,7 @@ const Cards = () => {
             <h2 className="card-title">Buzo adidas Disney Rex unisex</h2>
             <p>If a dog chews shoes whose shoes does he choose?</p>
             <div className="card-actions justify-center">
-              <button className="btn dark:bg-white dark:text-black">Buy Now</button>
+              <button className="btn dark:bg-white dark:text-black">Comprar</button>
             </div>
           </div>
         </div>
@@ -59,7 +59,7 @@ const Cards = () => {
             <h2 className="card-title">Buzo Reebok Kung Fu Panda</h2>
             <p>If a dog chews shoes whose shoes does he choose?</p>
             <div className="card-actions justify-center">
-              <button className="btn dark:bg-white dark:text-black">Buy Now</button>
+              <button className="btn dark:bg-white dark:text-black">Comprar</button>
             </div>
           </div>
         </div>
@@ -70,7 +70,7 @@ const Cards = () => {
             <h2 className="card-title">Buzo Fila BTS estampa Box unisex</h2>
             <p>If a dog chews shoes whose shoes does he choose?</p>
             <div className="card-actions justify-center">
-              <button className="btn dark:bg-white dark:text-black">Buy Now</button>
+              <button className="btn dark:bg-white dark:text-black">Comprar</button>
             </div>
           </div>
         </div>
