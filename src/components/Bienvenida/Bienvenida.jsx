@@ -12,9 +12,9 @@ const Bienvenida = () => {
 
             <div className='flex'>
 
-                <img className='h-full animate__animated animate__fadeInRight sm:h-56 lg:h-56' src={remera1} alt="" />
-                <img className='h-full animate__animated animate__fadeInRight sm:h-48 lg:h-56 ' src={remera2} alt="" />
-                <img className='h-full animate__animated animate__fadeInRight sm:h-48 lg:h-56' src={remera3} alt="" />
+                <img className='h-full animate__animated animate__fadeInRight xs:h-32 lg:h-56' src={remera1} alt="" />
+                <img className='h-full animate__animated animate__fadeInRight xs:h-32 lg:h-56 ' src={remera2} alt="" />
+                <img className='h-full animate__animated animate__fadeInRight xs:h-32 lg:h-56' src={remera3} alt="" />
             </div>
 
         </div>
