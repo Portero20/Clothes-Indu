@@ -5,7 +5,7 @@ const Formulario = () => {
         <div className='grid grid-cols-3 mt-16 justify-items-center md:grid-cols-1'>
 
             <div className='self-center'>
-                <img className='h-80 object-contain rounded-lg sm:h-52' src="https://www.linkaform.com/hubfs/linkaform-2021/img-contactanos.png" alt="" />
+                <img className='h-72 object-cover rounded-lg sm:h-52' src="https://www.linkaform.com/hubfs/linkaform-2021/img-contactanos.png" alt="" />
             </div>
 
             <div className='mt-9 mb-28'>
@@ -27,7 +27,7 @@ const Formulario = () => {
             </div>
 
             <div className='self-center'>
-                <img className='h-80 object-contain rounded-lg sm:h-52' src="https://asset-mx.lamudi.com/contact-us/images/svg/support.svg" alt="" />
+                <img className='h-72 object-cover rounded-lg sm:h-52' src="https://asset-mx.lamudi.com/contact-us/images/svg/support.svg" alt="" />
             </div>
 
         </div>
