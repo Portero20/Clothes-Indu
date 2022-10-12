@@ -12,13 +12,16 @@ const Formulario = () => {
 
                 <form className='flex justify-center flex-col gap-9'>
 
-                    <h2 className=' text-4xl mt-9 dark:text-black text-white transition-colors'>Contacta con nosotros</h2>
+                    <h2 className=' text-4xl mt-9 dark:text-black text-white transition-colors xs:text-2xl'>Contacta con nosotros</h2>
                     <input type="text" placeholder="Nombre" className="input w-full  border-gray-900" />
                     <input type="text" placeholder="Apellido" className="input w-full  border-gray-900" />
                     <input type="text" placeholder="Email" className="input w-full  border-gray-900" />
                     <input type="text" placeholder="Escribe un mensaje..." className="input w-full h-24 border-gray-900" />
-                    <button className='btn btn-dark'>Enviar</button>
+                    <div className='xs:flex xs:justify-center'>
 
+                        <button className='btn btn-dark w-96 xs:w-52'>Enviar</button>
+
+                    </div>
                 </form>
 
             </div>
