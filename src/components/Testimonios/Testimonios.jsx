@@ -7,10 +7,10 @@ const Testimonios = () => {
 
             <div className='flex justify-center gap-10 flex-wrap lg:grid lg:place-items-center text-center'>
 
-                <div className='dark:bg-slate-400 bg-zinc-900 w-4/12 p-20 rounded-xl flex justify-center gap-10 lg:w-3/5 lg:flex-col' data-aos="flip-left">
+                <div className='dark:bg-slate-400 bg-zinc-900 w-4/12 p-20 rounded-xl flex justify-center gap-10 lg:w-3/5 lg:flex-col xs:w-64' data-aos="flip-left">
                     <div className="avatar lg:flex lg:justify-center hover:scale-105 transition-all">
                         <div className="w-24 rounded-full ring dark:ring-slate-400 ring-offset-base-100 ring-offset-2 ring-primary">
-                            <img src="https://img.freepik.com/foto-gratis/retrato-joven-apuesto-hace-buen-gesto-demuestra-que-acuerdo-gusta-idea-sonrie-felizmente-usa-gafas-opticas-sombrero-amarillo-camiseta-modelos-interior-bien-gracias-signo-mano_273609-30676.jpg?w=740&t=st=1665381783~exp=1665382383~hmac=d2a37d55928f87bf36b798e53c149bdb2e7aecaae8d6283a3a6212923937d1a6" />
+                            <img src="https://img.freepik.com/foto-gratis/retrato-joven-apuesto-hace-buen-gesto-demuestra-que-acuerdo-gusta-idea-sonrie-felizmente-usa-gafas-opticas-sombrero-amarillo-camiseta-modelos-interior-bien-gracias-signo-mano_273609-30676.jpg?w=740&t=st=1665381783~exp=1665382383~hmac=d2a37d55928f87bf36b798e53c149bdb2e7aecaae8d6283a3a6212923937d1a6"/>
 
                         </div>
                     </div>
@@ -23,7 +23,7 @@ const Testimonios = () => {
                 </div>
 
 
-                <div className='dark:bg-slate-400 bg-zinc-900 w-4/12 p-20 rounded-xl flex justify-center gap-10 lg:w-3/5 lg:flex-col' data-aos="flip-left">
+                <div className='dark:bg-slate-400 bg-zinc-900 w-4/12 p-20 rounded-xl flex justify-center gap-10 lg:w-3/5 lg:flex-col xs:w-64' data-aos="flip-left">
                     <div className="avatar lg:flex lg:justify-center hover:scale-105 transition-all">
                         <div className="w-24 rounded-full ring dark:ring-slate-400 ring-offset-base-100 ring-offset-2 ring-primary">
 
@@ -39,7 +39,7 @@ const Testimonios = () => {
 
                 </div>
 
-                <div className='dark:bg-slate-400 bg-zinc-900 w-4/12 p-20 rounded-xl flex justify-center gap-10 lg:w-3/5 lg:flex-col' data-aos="flip-left">
+                <div className='dark:bg-slate-400 bg-zinc-900 w-4/12 p-20 rounded-xl flex justify-center gap-10 lg:w-3/5 lg:flex-col xs:w-64' data-aos="flip-left">
                     <div className="avatar lg:flex lg:justify-center hover:scale-105 transition-all">
 
                         <div className="w-24 rounded-full ring dark:ring-slate-400 ring-offset-base-100 ring-offset-2 ring-primary">
@@ -56,7 +56,7 @@ const Testimonios = () => {
 
                 </div>
 
-                <div className='dark:bg-slate-400 bg-zinc-900 w-4/12 p-20 rounded-xl flex justify-center gap-10 lg:w-3/5 lg:flex-col' data-aos="flip-left">
+                <div className='dark:bg-slate-400 bg-zinc-900 w-4/12 p-20 rounded-xl flex justify-center gap-10 lg:w-3/5 lg:flex-col xs:w-64' data-aos="flip-left">
                     <div className="avatar lg:flex lg:justify-center hover:scale-105 transition-all">
                         <div className="w-24 rounded-full ring dark:ring-slate-400 ring-offset-base-100 ring-offset-2 ring-primary">
                             <img src="https://img.freepik.com/foto-gratis/retrato-mujer-asiatica-pelo-oscuro-serio-mantiene-dedo-barbilla-mira-misteriosamente-al-frente-considera-algo-vestido-jersey-azul-aislado-sobre-pared-marron_273609-53356.jpg?w=740&t=st=1665382067~exp=1665382667~hmac=ca99db58bbaf0237e009061f95387d62ccacc58ff1a0f4a5e68cc8e6d2bd1ee1" />

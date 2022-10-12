@@ -11,7 +11,7 @@ const DarkMode = () => {
     return (
         <div>
 
-            <input type="checkbox" className='toggle toggle-xl' onClick={handleClick} />
+            <input type="checkbox" className='toggle toggle-xl xs:toggle-sm' onClick={handleClick} />
 
         </div>
     )
